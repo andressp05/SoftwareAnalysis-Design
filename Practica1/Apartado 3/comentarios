@@ -1,0 +1,4 @@
+Cuando ejecuto el programa sin parametros me sale el mensaje de "Se espera un numero como parametro."
+Cuando lo ejecuto con un valor numerico sale el mensaje esperado de "El logaritmo de x es x'
+Cuando lo ejecuto con un valor no numerico sale exception in thread
+
